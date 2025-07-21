@@ -1,0 +1,337 @@
+.chocolate-chip {
+  background-color: #fdfcf6;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.chocolate-chip .div {
+  background-color: #fdfcf6;
+  overflow: hidden;
+  width: 1522px;
+  height: 2776px;
+  position: relative;
+}
+
+.chocolate-chip .overlap {
+  position: absolute;
+  width: 1622px;
+  height: 2364px;
+  top: 341px;
+  left: 11px;
+}
+
+.chocolate-chip .overlap-group {
+  position: absolute;
+  width: 1442px;
+  height: 2364px;
+  top: 0;
+  left: 0;
+}
+
+.chocolate-chip .ingredients-cup {
+  position: absolute;
+  width: 1442px;
+  top: 563px;
+  left: 0;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chocolate-chip .text-wrapper {
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 70px;
+  letter-spacing: 0;
+}
+
+.chocolate-chip .span {
+  font-size: 80px;
+}
+
+.chocolate-chip .text-wrapper-2 {
+  font-size: 40px;
+}
+
+.chocolate-chip .rectangle {
+  position: absolute;
+  width: 890px;
+  height: 620px;
+  top: 0;
+  left: 18px;
+  background-color: #d6d0af;
+  border: 3px solid;
+}
+
+.chocolate-chip .image {
+  position: absolute;
+  width: 810px;
+  height: 546px;
+  top: 36px;
+  left: 59px;
+  object-fit: cover;
+}
+
+.chocolate-chip .easiest-chocolate {
+  position: absolute;
+  width: 631px;
+  top: 204px;
+  left: 991px;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chocolate-chip .overlap-2 {
+  position: absolute;
+  width: 303px;
+  height: 69px;
+  top: 24px;
+  left: 1032px;
+}
+
+.chocolate-chip .rectangle-2 {
+  position: absolute;
+  width: 303px;
+  height: 68px;
+  top: 1px;
+  left: 0;
+  background-color: #978f64;
+  border-radius: 50px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.chocolate-chip .text-wrapper-3 {
+  position: absolute;
+  width: 160px;
+  top: 0;
+  left: 84px;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 60px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.chocolate-chip .vector {
+  position: absolute;
+  width: 124px;
+  height: 200px;
+  top: 2318px;
+  left: -5473px;
+}
+
+.chocolate-chip .overlap-3 {
+  position: absolute;
+  width: 48px;
+  height: 72px;
+  top: 2457px;
+  left: -5339px;
+}
+
+.chocolate-chip .img {
+  position: absolute;
+  width: 48px;
+  height: 11px;
+  top: 31px;
+  left: 0;
+}
+
+.chocolate-chip .vector-2 {
+  position: absolute;
+  width: 10px;
+  height: 72px;
+  top: 0;
+  left: 0;
+}
+
+.chocolate-chip .overlap-4 {
+  position: absolute;
+  width: 47px;
+  height: 72px;
+  top: 2457px;
+  left: -5520px;
+}
+
+.chocolate-chip .vector-3 {
+  position: absolute;
+  width: 47px;
+  height: 12px;
+  top: 31px;
+  left: 0;
+}
+
+.chocolate-chip .vector-4 {
+  position: absolute;
+  width: 38px;
+  height: 1px;
+  top: 31px;
+  left: 9px;
+}
+
+.chocolate-chip .vector-5 {
+  position: absolute;
+  width: 9px;
+  height: 72px;
+  top: 0;
+  left: 0;
+}
+
+.chocolate-chip .overlap-group-2 {
+  position: absolute;
+  width: 1147px;
+  height: 194px;
+  top: 70px;
+  left: 171px;
+  background-color: #ffffff;
+  border: 3px solid;
+  border-color: #d0caa5;
+}
+
+.chocolate-chip .overlap-5 {
+  position: absolute;
+  width: 152px;
+  height: 138px;
+  top: 28px;
+  left: 117px;
+}
+
+.chocolate-chip .vector-6 {
+  position: absolute;
+  width: 4px;
+  height: 3px;
+  top: 77px;
+  left: 73px;
+}
+
+.chocolate-chip .ellipse {
+  position: absolute;
+  width: 152px;
+  height: 137px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  border-radius: 76px / 68.5px;
+}
+
+.chocolate-chip .ellipse-2 {
+  position: absolute;
+  width: 152px;
+  height: 138px;
+  top: 0;
+  left: 0;
+}
+
+.chocolate-chip .ellipse-3 {
+  position: absolute;
+  width: 130px;
+  height: 118px;
+  top: 10px;
+  left: 11px;
+}
+
+.chocolate-chip .vector-7 {
+  position: absolute;
+  width: 9px;
+  height: 46px;
+  top: 25px;
+  left: 72px;
+}
+
+.chocolate-chip .vector-8 {
+  position: absolute;
+  width: 23px;
+  height: 29px;
+  top: 42px;
+  left: 48px;
+}
+
+.chocolate-chip .vector-9 {
+  position: absolute;
+  width: 24px;
+  height: 27px;
+  top: 41px;
+  left: 80px;
+}
+
+.chocolate-chip .vector-10 {
+  position: absolute;
+  width: 19px;
+  height: 19px;
+  top: 57px;
+  left: 78px;
+}
+
+.chocolate-chip .vector-11 {
+  position: absolute;
+  width: 7px;
+  height: 8px;
+  top: 67px;
+  left: 76px;
+}
+
+.chocolate-chip .vector-12 {
+  position: absolute;
+  width: 9px;
+  height: 11px;
+  top: 67px;
+  left: 70px;
+}
+
+.chocolate-chip .vector-13 {
+  position: absolute;
+  width: 12px;
+  height: 14px;
+  top: 67px;
+  left: 67px;
+}
+
+.chocolate-chip .vector-14 {
+  position: absolute;
+  width: 26px;
+  height: 42px;
+  top: 77px;
+  left: 50px;
+}
+
+.chocolate-chip .vector-15 {
+  position: absolute;
+  width: 28px;
+  height: 42px;
+  top: 77px;
+  left: 76px;
+}
+
+.chocolate-chip .easy-eats {
+  position: absolute;
+  width: 653px;
+  top: 15px;
+  left: 368px;
+  font-family: "Abhaya Libre Medium-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 128px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.chocolate-chip .text-wrapper-4 {
+  color: #a39847;
+}
+
+.chocolate-chip .text-wrapper-5 {
+  font-family: "Abril Fatface-Regular", Helvetica;
+  color: #000000;
+}
